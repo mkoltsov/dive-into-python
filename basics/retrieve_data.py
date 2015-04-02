@@ -1,10 +1,10 @@
 #!/usr/bin/env python3.4
-"""FETCH A list of words from a URL.
+"""FETCH a list of words from an URL.
 """
 import sys
 from urllib.request import urlopen
 def fetch_words(url):
-	"""FETCH A list of words from a URL.
+	"""FETCH A list of words from a  URL.
 	Args: URL
 	Returns: words
 	"""
